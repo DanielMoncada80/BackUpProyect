@@ -1,6 +1,6 @@
 Página recreada para almacenar y centralizar todos los Looker Studio y Site administrados o de interés para el Sistema integrado de Gestión.
 
-![alt text](/image.png)
+![alt text](/Imagenes/image.png)
 
 Cómo interactuar:
 
