@@ -14,4 +14,3 @@ Con esta plataforma se busca aprovechar las herramientas tecnológicas y central
 En caso de tener dudas o alguna inquietud contactar a:
 Daniel Moncada
 Correo: Dmoncada@noel.com.co
-Cel. 3206583971
